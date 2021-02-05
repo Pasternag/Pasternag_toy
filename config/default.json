@@ -1,0 +1,14 @@
+{
+    "main": {
+        "exampleString": "MAIN: shown",
+        "exampleHiddenString": "MAIN: hidden"
+    },
+    "test": {
+        "exampleString": "TEST: shown",
+        "exampleHiddenString": "TEST: hidden"
+    },
+    "dev": {
+        "exampleString": "DEV: shown",
+        "exampleHiddenString": "DEV: hidden"
+    }
+}
